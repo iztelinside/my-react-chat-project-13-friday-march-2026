@@ -1,0 +1,9 @@
+.main{
+    display: grid;
+    color: #009300;
+    background-color: #59595e;
+    width: 100%;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,9 @@
+header{
+    align-content: center;
+    height: 10vh;
+    background-color: #3c3f41;
+    color: white;
+    margin: 0 auto;
+    padding: 10px;
+    justify-items: center;
+}
