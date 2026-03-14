@@ -1,6 +1,8 @@
 import React from "react";
 
 
+
+
 function Burgers ({title, price}) {
     return (
         <div>
